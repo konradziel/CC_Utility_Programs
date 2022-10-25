@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  25 OCT 2022 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  25 OCT 2022 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -303,34 +303,34 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
-5.
+4.
 
 (D:\MiKTeX\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
-15.
+14.
  (D:\MiKTeX\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
-15.
+14.
 
 (D:\MiKTeX\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 15.
+(Font)              <10> on input line 14.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 14.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 15.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+(Font)              <5> on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
  (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (D:\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -342,16 +342,18 @@ aux) )
 Here is how much of TeX's memory you used:
  4749 strings out of 475385
  75661 string characters out of 2793318
- 418242 words of memory out of 3000000
+ 419242 words of memory out of 3000000
  26088 multiletter control sequences out of 15000+600000
  474177 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,63p,255b,302s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/MiKTeX/fonts/enc/dvips/pl/plrm.enc}<D:/MiKTeX/fonts/type1/public/pl/p
-lr10.pfb>
-Output written on zadanie_1.pdf (1 page, 14297 bytes).
+ 55i,8n,63p,403b,388s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/MiKTeX/fonts/enc/dvips/pl/plrm.enc}{D:/MiKTeX/fonts/enc/dvips/pl/plms
+.enc}{D:/MiKTeX/fonts/enc/dvips/pl/plmi.enc}<D:/MiKTeX/fonts/type1/public/pl/pl
+mi10.pfb><D:/MiKTeX/fonts/type1/public/pl/plr10.pfb><D:/MiKTeX/fonts/type1/publ
+ic/pl/plr7.pfb><D:/MiKTeX/fonts/type1/public/pl/plsy10.pfb>
+Output written on zadanie_1.pdf (1 page, 31894 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

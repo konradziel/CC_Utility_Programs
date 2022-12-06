@@ -1,0 +1,13 @@
+\documentclass[a4paper]{article}
+\usepackage[left=3.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{enumerate}
+\usepackage{amsmath} %pakiet matematyczny
+\usepackage{amssymb} %pakiet dodatkowych symboli
+\usepackage{caption}
+\usepackage{multirow}
+\begin{document}
+
+\end{document}

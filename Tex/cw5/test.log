@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  29 NOV 2022 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.24)  5 DEC 2022 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,29 +203,47 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(D:\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(D:\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+)
 (D:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box53
 ) (test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -263,16 +281,16 @@ LaTeX Font Info:    ... okay on input line 9.
 
 (D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen160
+\scratchcounter=\count277
+\scratchdimen=\dimen168
 \scratchbox=\box54
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count278
+\nofMParguments=\count279
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen161
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen169
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks27
 ) (D:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -282,85 +300,88 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (D:\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--20
+Underfull \hbox (badness 10000) in paragraph at lines 16--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 16--23
 
  []
 
 [1
 
 {C:/Users/Konrad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 3
-7.
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 4
+0.
 
 (D:\MiKTeX\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
-37.
+40.
  (D:\MiKTeX\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
-37.
+40.
 
 (D:\MiKTeX\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 37.
+(Font)              <10> on input line 40.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 37.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+(Font)              <5> on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 
  (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
 
 
 (D:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+)
+Underfull \hbox (badness 10000) in paragraph at lines 36--60
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 [3] [4] (test.aux) ) 
 Here is how much of TeX's memory you used:
- 3438 strings out of 475385
- 50075 string characters out of 2793318
- 408349 words of memory out of 3000000
- 24779 multiletter control sequences out of 15000+600000
+ 4762 strings out of 475385
+ 75689 string characters out of 2793318
+ 431230 words of memory out of 3000000
+ 26097 multiletter control sequences out of 15000+600000
  477217 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,1900b,235s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,9n,63p,1900b,306s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/MiKTeX/fonts/enc/dvips/pl/plit.enc}{D:/MiKTeX/fonts/enc
 /dvips/pl/plrm.enc}<D:/MiKTeX/fonts/type1/public/pl/plbx10.pfb><D:/MiKTeX/fonts
 /type1/public/pl/plbx12.pfb><D:/MiKTeX/fonts/type1/public/pl/plr10.pfb><D:/MiKT
 eX/fonts/type1/public/pl/plti10.pfb>
-Output written on test.pdf (4 pages, 66748 bytes).
+Output written on test.pdf (4 pages, 66732 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
